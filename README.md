@@ -1,0 +1,1 @@
+Here's the COMPANY database including the the tables named as EMPLOYEE, DEPARTMENT and Grade.These tables the their own attributes which is mentioned in the above file and these tables take reference with the help of FOREIGN KEY. Implementation of different SQL commands on the MySQL server is also included in the above file.
